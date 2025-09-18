@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Computational Biologist working in Chicago.   Please message me to collaborate. 
+
 <!--
 **freiburgermsu/freiburgermsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="www.andrewfreiburger.com" target="_blank">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=freiburgermsu&show_icons=true&theme=dracula&include_all_commits=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freiburgermsu&layout=compact&theme=dracula&card_width=340" />
+</a>
